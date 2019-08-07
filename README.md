@@ -1,3 +1,3 @@
 # Weather-App
 
-![](Capture.jpeg)
+![](Capture.JPG)
